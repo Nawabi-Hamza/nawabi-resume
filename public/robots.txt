@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nawabi-resume.netlify.app/sitemap.xml
