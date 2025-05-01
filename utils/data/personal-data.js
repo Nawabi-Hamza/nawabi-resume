@@ -13,5 +13,6 @@ export const personalData = {
   stackOverflow: 'https://stackoverflow.com/users/19824652/hamza-nawabi',
   leetcode: 'https://leetcode.com/u/Hamza_Nawabi/',
   devUsername: 'hamza_nawabi_b53859fa5672',
+  devToken: "b6XvJGXbnntJHmWeegt1ooJf",
   resume: 'https://drive.google.com/file/d/11PqBlUzRNhy73IP5ffsO7JhKorJtpl9i/view?usp=drive_link'
 }
