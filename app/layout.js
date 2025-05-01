@@ -11,13 +11,14 @@ import "./css/globals.scss";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "Hamza Nawabi | Best Web Developer in Kabul",
+  title: "Hamza Nawabi | Full Stack-Developer",
   description:
     "Portfolio of Hamza Nawabi – A highly skilled React and full-stack web developer based in Kabul, Afghanistan. Specializing in modern, responsive websites and applications.",
   keywords: [
     "Hamza Nawabi",
     "web developer Kabul",
     "React developer Afghanistan",
+    "Best Web Developer in Kabul",
     "full stack developer Kabul",
     "frontend developer Afghanistan",
     "backend developer Kabul",
